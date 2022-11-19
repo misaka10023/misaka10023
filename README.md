@@ -1,5 +1,5 @@
 ### Hi there 👋
-![](https://github-readme-stats.vercel.app/api?username=misaka10023&theme=blue)
+![](https://github-readme-stats.vercel.app/api?username=misaka10023&theme=dark)
 
 <!--
 **misaka10023/misaka10023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
